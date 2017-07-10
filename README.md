@@ -9,7 +9,6 @@ This repo contains sample code on how to start with LoPy prgramming and use some
 1. Hello World (slightly extended)
 2. MEMS microphone
 3. Ambient light sensor
-4. Temperature sensor
 
 The sections below provide further information for each sensor covered
 
@@ -68,6 +67,3 @@ The wiring with the LoPy is as follows (LoPy to BH1750FVI)
 * [Ambient light sensor BH1750FVI breakout board](http://www.play-zone.ch/en/digitaler-ambient-light-sensor-mit-bh1750fvi.html?___from_store=de)
 * [LoPy pinout](https://www.pycom.io/wp-content/uploads/2016/11/lopy_pinout.pdf)
 
-## Temperature sensor
-
-TODO
